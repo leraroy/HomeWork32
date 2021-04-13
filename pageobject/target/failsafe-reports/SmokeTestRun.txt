@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: SmokeTestRun
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 35.628 s <<< FAILURE! - in SmokeTestRun
+More event on the main page.I as a customer WTBAT see more events than presented on the main page  Time elapsed: 12.954 s  <<< ERROR!
+org.openqa.selenium.ElementClickInterceptedException: 
+element click intercepted: Element <a href="/events" class="btn-icon btn-arrow orange hidden-xs hidden-sm hidden-md">...</a> is not clickable at point (1285, 47). Other element would receive the click: <a id="contact-us-menu" href="/contact-us/" class="contact-us">...</a>
+  (Session info: chrome=88.0.4324.104)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-014LNCD', ip: '192.168.0.161', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.104, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\aruti\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51898}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9e746557d4b4e2b4829c8ee6061e1dc5
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="I as a user I  WTBAT have an opportunity to see more references." skipped="0" tests="1" time="51.08" timestamp="2021-04-07 06:44:34"><testcase name="I as a user I  WTBAT have an opportunity to see more references"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+steps.SeeMoreReferencesSteps.userShouldBeRedirected(SeeMoreReferencesSteps.java:34)&#13;
+stepdefinitions.MainPageReferenceDef.references_page_is_opened_https_stage_hwr_hysdev_com_references(MainPageReferenceDef.java:38)&#13;
+✽.references page is opened (https://stage.hwr.hysdev.com/references/)(src/test/resources/features/smoke/Smoke_see_more_references.feature:7)&#13;
+</system-err></testcase></testsuite>

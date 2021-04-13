@@ -1,0 +1,596 @@
+<html lang="en-US" class=""><!--<![endif]--><head>
+	<!-- Meta UTF8 charset -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="apple-touch-icon" sizes="180x180" href="/wp-content/uploads/2018/09/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/uploads/2018/09/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/uploads/2018/09/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/wp-content/uploads/2018/09/favicons/site.webmanifest">
+    <link rel="mask-icon" href="/wp-content/uploads/2018/09/favicons/safari-pinned-tab.svg" color="#03066d">
+    <meta name="apple-mobile-web-app-title" content="HYS Enterprise">
+    <meta name="application-name" content="HYS Enterprise">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Google Tag Manager -->
+    <script src="https://connect.facebook.net/signals/config/2770339363244639?v=2.9.39&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/config/527702751123836?v=2.9.39&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MRDS8WD"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-MRDS8WD');</script>
+    <!-- End Google Tag Manager -->
+	<script>var et_site_url='https://stage.hwr.hysdev.com';var et_post_id='852';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>Vacancies - HYS Enterprise</title>
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v11.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://stage.hwr.hysdev.com/career/vacancies/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Vacancies - HYS Enterprise">
+<meta property="og:url" content="https://stage.hwr.hysdev.com/career/vacancies/">
+<meta property="og:site_name" content="HYS Enterprise">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Vacancies - HYS Enterprise">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://stage.hwr.hysdev.com/#organization","name":"","url":"https://stage.hwr.hysdev.com/","sameAs":[]},{"@type":"WebSite","@id":"https://stage.hwr.hysdev.com/#website","url":"https://stage.hwr.hysdev.com/","name":"HYS Enterprise","publisher":{"@id":"https://stage.hwr.hysdev.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://stage.hwr.hysdev.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://stage.hwr.hysdev.com/career/vacancies/#webpage","url":"https://stage.hwr.hysdev.com/career/vacancies/","inLanguage":"en-US","name":"Vacancies - HYS Enterprise","isPartOf":{"@id":"https://stage.hwr.hysdev.com/#website"},"datePublished":"2018-12-07T11:03:49+00:00","dateModified":"2018-12-17T14:23:29+00:00"}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="HYS Enterprise » Feed" href="https://stage.hwr.hysdev.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="HYS Enterprise » Comments Feed" href="https://stage.hwr.hysdev.com/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/stage.hwr.hysdev.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://stage.hwr.hysdev.com/wp-includes/js/wp-emoji-release.min.js?ver=5.2.2" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://stage.hwr.hysdev.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="nt-conversi-parent-style-css" href="https://stage.hwr.hysdev.com/wp-content/themes/nt-conversi/style.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="main-css" href="https://stage.hwr.hysdev.com/wp-content/themes/nt-conversi/dist/css/main.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="https://stage.hwr.hysdev.com/wp-content/themes/nt-conversi-child/style.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="et-builder-modules-style-css" href="https://stage.hwr.hysdev.com/wp-content/plugins/divi-builder/includes/builder/styles/frontend-builder-plugin-style.min.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://stage.hwr.hysdev.com/wp-includes/css/dashicons.min.css?ver=5.2.2" type="text/css" media="all">
+<script type="text/javascript" src="https://stage.hwr.hysdev.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
+<script type="text/javascript" src="https://stage.hwr.hysdev.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var et_core_api_spam_recaptcha = {"site_key":"","page_action":{"action":"vacancies"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://stage.hwr.hysdev.com/wp-content/plugins/divi-builder/core/admin/js/recaptcha.js?ver=5.2.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://stage.hwr.hysdev.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://stage.hwr.hysdev.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="https://stage.hwr.hysdev.com/?p=852">
+<link rel="alternate" type="application/json+oembed" href="https://stage.hwr.hysdev.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstage.hwr.hysdev.com%2Fcareer%2Fvacancies%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://stage.hwr.hysdev.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstage.hwr.hysdev.com%2Fcareer%2Fvacancies%2F&amp;format=xml">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-9139606-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-9139606-1');
+	</script>
+    <script src="https://unpkg.com/react@16/umd/react.production.min.js" crossorigin=""></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js" crossorigin=""></script>
+
+    <!-- Hotjar Tracking Code for www.hys-enterprise.com -->
+    <script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:1384847,hjsv:6};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script><script async="" src="https://static.hotjar.com/c/hotjar-1384847.js?sv=6"></script>
+
+    <script async="" src="https://script.hotjar.com/modules.3dd906c82e8608f74e44.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><style>[data-columns]::before{visibility:hidden;position:absolute;font-size:1px;}</style><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
+
+	<!-- BODY START=========== -->
+	<body class="page-template page-template-templates page-template-career-vacancies page-template-templatescareer-vacancies-php page page-id-852 page-parent page-child parent-pageid-292 et_divi_builder et-pb-theme-nt conversi child et-db et_minified_js et_minified_css chrome">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MRDS8WD"
+                          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->     <div class="
+                    career-page
+                ">
+        <header id="header" style="display: block;">
+            <nav id="navigation" class="navbar">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="navbar-wrap">
+                                <div class="navbar-brand">
+                                    <a href="/" class="img-logo">
+                                                                                    <img src="/wp-content/uploads/2018/09/logo-mono-colored.png" alt="HYS Logo" class="white">
+                                            <img src="/wp-content/uploads/2018/09/logo-colored-1.png" alt="HYS Logo" class="hidden">
+                                                                            </a>
+                                </div>
+                                <button type="button" class="menu-toggle">
+                                    <span class="top"></span>
+                                    <span class="center"></span>
+                                    <span class="bottom"></span>
+                                </button>
+                            </div>
+                            <ul id="primary-menu-affix" class="nav navbar-nav primary-menu">
+    <li class="menu-item">
+        <a href="/career/team/">
+            Team
+        </a>
+    </li>
+    <li class="menu-item">
+        <a href="/career/vacancies/">
+            Vacancies
+        </a>
+    </li>
+    <li class="menu-item">
+        <a href="/career/events/">
+            Events
+        </a>
+    </li>
+    <li class="menu-item">
+        <a href="/career/blog/">
+            Blog
+        </a>
+    </li>
+</ul>                            <ul id="mobile-menu-affix" class="nav navbar-nav mobile-menu">
+    <li class="menu-item">
+        <a href="/career/team/">
+            Team
+        </a>
+    </li>
+    <li class="menu-item">
+        <a href="/career/vacancies/">
+            Vacancies
+        </a>
+    </li>
+    <li class="menu-item">
+        <a href="/career/events/">
+            Events
+        </a>
+    </li>
+    <li class="menu-item">
+        <a href="/career/blog/">
+            Blog
+        </a>
+    </li>
+    <li class="menu-item social"> 
+            <ul class="social-icons">
+                <li><a target="_blank" href="https://www.instagram.com/hys_enterprise/"> <i class="icon-instagram"></i> </a></li>
+                <li><a target="_blank" href="https://www.facebook.com/hysenterprise/"> <i class="icon-facebook"></i> </a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/company/hys-enterprise"> <i class="icon-linkedin"></i> </a></li>
+                <li><a target="_blank" href="https://twitter.com/hys_enterprise"> <i class="icon-twitter"></i> </a></li>
+                <li><a target="_blank" href="https://www.youtube.com/channel/UCl3yhYAbPoZcLgiwjBkZ9WQ"> <i class="icon-youtube"></i> </a></li>
+            </ul> 
+    </li>
+</ul>                        </div>
+                    </div>
+                </div>
+            </nav>
+        </header>
+    </div>
+<style>
+    .career-vacancies .career-jumbotron {
+        background: #00022B url(https://stage.hwr.hysdev.com/wp-content/uploads/2019/06/vacancies.jpg) no-repeat bottom center / cover;
+        margin-top:0; padding-top: 12.8rem;
+    }
+    @media(max-width: 991px) {
+        /*.career-vacancies .career-jumbotron {
+            background: #00022B url(https://stage.hwr.hysdev.com/wp-content/uploads/2019/06/vacancies-mobile.jpg) no-repeat center bottom / contain;
+        }*/
+    }
+</style>
+
+<section class="career-vacancies">
+    <div id="main-jumbotron" class="career-jumbotron">
+        <div class="hr-container">
+            <div class="hr hr_left"></div>
+            <div class="hr hr_right"></div>
+        </div>
+        <div class="container">
+            <div class="container-mx">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="title">
+                            <h2>
+                                Vacancies                            </h2>
+                            <p>Join the best team you’ll ever be a part of</p>
+                        </div>
+                        <div class="career-search">
+                            <form method="get" id="search-form" class="search-form js-search-form search-vacancies" novalidate="">
+                                <div class="form-group">
+                                    <input name="search2" type="text" placeholder="Search vacancies">
+                                </div>
+                                <span class="multiselect-native-select"><select id="vacancy_type" name="vacancy_type" class="vacancies-select accordion">
+                                    <option value="0">All Jobs</option>
+                                                                                                                        <option value="engineering">Engineering</option>
+                                                                                                                            <option value="test">test</option>
+                                                                                                                            <option value="management">Management</option>
+                                                                                                                                                                    <option value="administration">Administration</option>
+                                                                        </select><div class="btn-group"><button type="button" class="multiselect dropdown-toggle btn btn-default" data-toggle="dropdown" title="All Jobs"><span class="multiselect-selected-text">All Jobs</span> <b class="caret"></b></button><ul class="multiselect-container dropdown-menu"><li class="active"><a tabindex="0"><label class="radio" title="All Jobs"><input type="radio" value="0"> All Jobs</label></a></li><li><a tabindex="0"><label class="radio" title="Engineering"><input type="radio" value="engineering"> Engineering</label></a></li><li><a tabindex="0"><label class="radio" title="test"><input type="radio" value="test"> test</label></a></li><li><a tabindex="0"><label class="radio" title="Management"><input type="radio" value="management"> Management</label></a></li><li><a tabindex="0"><label class="radio" title="Administration"><input type="radio" value="administration"> Administration</label></a></li></ul></div></span>
+                                <button type="button" class="btn">Search</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <div class="container">
+            <div class="container-mx">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <ul class="breadcrumbs"><li><svg xmlns="http://www.w3.org/2000/svg" width="14" height="12"><g><path d="M7 2.392L1.936 6.546a.119.119 0 0 1-.004.026.12.12 0 0 0-.005.026v4.82c0 .101.003.288.009.56h3.935V8h2.254v3.979h3.936c.006-.273.009-.46.009-.561v-4.82a.123.123 0 0 0-.01-.052L7 2.392z"></path><path d="M13.998 5.6L12.07 4.004 9.817 2.138 6.999 0 0 5.6l.907 1.077 6.092-5.056 6.093 5.056.906-1.078z"></path></g></svg>
+                                                <a href="/">Home</a> <i class="icon icon-chevron-right"></i></li><li><a href="/career">Career</a><i class="icon icon-chevron-right"></i></li><li><span>Vacancies</span></li></ul>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="career-wrap">
+        <div class="container">
+            <div class="container-mx">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="career-inner-wrap">
+                            <div class="career-search">
+                                <div class="tags-wrap">
+                                    <h3>Vacancies:</h3>
+                                    <ul>
+                                                                                                                                    <li>
+                                                    <a class="" href="?vacancy_tag=net-2">
+                                                        <span>.NET</span>
+                                                        <span>1</span>
+                                                    </a>
+                                                </li>
+                                                                                                                                        <li>
+                                                    <a class="" href="?vacancy_tag=scrum-master">
+                                                        <span>Scrum Master</span>
+                                                        <span>1</span>
+                                                    </a>
+                                                </li>
+                                                                                                                                        <li>
+                                                    <a class="" href="?vacancy_tag=event-manager">
+                                                        <span>Event Manager</span>
+                                                        <span>1</span>
+                                                    </a>
+                                                </li>
+                                                                                                                                        <li>
+                                                    <a class="" href="?vacancy_tag=helpdesk">
+                                                        <span>Helpdesk</span>
+                                                        <span>1</span>
+                                                    </a>
+                                                </li>
+                                                                                                                                                                                                                                <li>
+                                                    <a class="" href="?vacancy_tag=node-js">
+                                                        <span>Node.JS</span>
+                                                        <span>1</span>
+                                                    </a>
+                                                </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                <li>
+                                                    <a class="" href="?vacancy_tag=qa">
+                                                        <span>QA</span>
+                                                        <span>2</span>
+                                                    </a>
+                                                </li>
+                                                                                                                                        <li>
+                                                    <a class="" href="?vacancy_tag=php">
+                                                        <span>PHP</span>
+                                                        <span>1</span>
+                                                    </a>
+                                                </li>
+                                                                                                                                                                                                                                                                                                                        <li>
+                                                    <a class="" href="?vacancy_tag=c">
+                                                        <span>C#</span>
+                                                        <span>3</span>
+                                                    </a>
+                                                </li>
+                                                                                                                                        <li>
+                                                    <a class="" href="?vacancy_tag=net">
+                                                        <span>.NET</span>
+                                                        <span>4</span>
+                                                    </a>
+                                                </li>
+                                                                                                                                                                        </ul>
+                                    <a class="btn-icon btn-arrow orange" href="/career/cv-application/">
+                                        <span>Send your CV</span>
+                                        <i class="icon-arrow-short"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="vacancies-list">
+                                <div class="row">
+                                                                                <div class="col-xs-12">
+                                                <a href="https://stage.hwr.hysdev.com/career/vacancies/event-manager/">
+                                                    <span class="vacancy">
+                                                        <span class="vacancy-tag">
+                                                            <img class="icon-light" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/01/Management.png">
+                                                            <img class="icon-colored" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/01/management-colored-min.png">
+                                                        </span>
+                                                        <span class="vacancy-inner-wrap">
+                                                            <h3>Event Manager</h3>
+                                                            <p>Administration</p>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                                                                    <div class="col-xs-12">
+                                                <a href="https://stage.hwr.hysdev.com/career/vacancies/helpdesk-system-administrator-assistant/">
+                                                    <span class="vacancy">
+                                                        <span class="vacancy-tag">
+                                                            <img class="icon-light" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/01/engineering.png">
+                                                            <img class="icon-colored" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/06/eng@2x-2.png">
+                                                        </span>
+                                                        <span class="vacancy-inner-wrap">
+                                                            <h3>Helpdesk / System Administrator Assistant</h3>
+                                                            <p>Administration</p>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                                                                    <div class="col-xs-12">
+                                                <a href="https://stage.hwr.hysdev.com/career/vacancies/recruiter/">
+                                                    <span class="vacancy">
+                                                        <span class="vacancy-tag">
+                                                            <img class="icon-light" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/01/Management.png">
+                                                            <img class="icon-colored" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/06/manager@2x-2.png">
+                                                        </span>
+                                                        <span class="vacancy-inner-wrap">
+                                                            <h3>Recruiter</h3>
+                                                            <p>Administration</p>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                                                                    <div class="col-xs-12">
+                                                <a href="https://stage.hwr.hysdev.com/career/vacancies/scrum-master/">
+                                                    <span class="vacancy">
+                                                        <span class="vacancy-tag">
+                                                            <img class="icon-light" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/01/Management.png">
+                                                            <img class="icon-colored" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/01/management-colored-min.png">
+                                                        </span>
+                                                        <span class="vacancy-inner-wrap">
+                                                            <h3>Scrum Master</h3>
+                                                            <p>Management</p>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                                                                    <div class="col-xs-12">
+                                                <a href="https://stage.hwr.hysdev.com/career/vacancies/junior-qa-engineer-manual/">
+                                                    <span class="vacancy">
+                                                        <span class="vacancy-tag">
+                                                            <img class="icon-light" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/01/qa.png">
+                                                            <img class="icon-colored" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/06/qa@2x-2.png">
+                                                        </span>
+                                                        <span class="vacancy-inner-wrap">
+                                                            <h3>Junior QA Engineer (manual)</h3>
+                                                            <p>test</p>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                                                                    <div class="col-xs-12">
+                                                <a href="https://stage.hwr.hysdev.com/career/vacancies/net-developer/">
+                                                    <span class="vacancy">
+                                                        <span class="vacancy-tag">
+                                                            <img class="icon-light" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/01/sharp.png">
+                                                            <img class="icon-colored" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/06/C@2x-2.png">
+                                                        </span>
+                                                        <span class="vacancy-inner-wrap">
+                                                            <h3>C# Developer</h3>
+                                                            <p>Engineering</p>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                                                                    <div class="col-xs-12">
+                                                <a href="https://stage.hwr.hysdev.com/career/vacancies/full-stack-developer-node-jsangular/">
+                                                    <span class="vacancy">
+                                                        <span class="vacancy-tag">
+                                                            <img class="icon-light" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/01/node.png">
+                                                            <img class="icon-colored" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/01/node-colored-min.png">
+                                                        </span>
+                                                        <span class="vacancy-inner-wrap">
+                                                            <h3>Full Stack developer (Node.JS+Angular)</h3>
+                                                            <p>Engineering</p>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                                                                    <div class="col-xs-12">
+                                                <a href="https://stage.hwr.hysdev.com/career/vacancies/c-developer-intern/">
+                                                    <span class="vacancy">
+                                                        <span class="vacancy-tag">
+                                                            <img class="icon-light" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/01/sharp.png">
+                                                            <img class="icon-colored" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/06/C@2x-2.png">
+                                                        </span>
+                                                        <span class="vacancy-inner-wrap">
+                                                            <h3>C# Developer (Intern)</h3>
+                                                            <p>Engineering</p>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                                                                    <div class="col-xs-12">
+                                                <a href="https://stage.hwr.hysdev.com/career/vacancies/qa-engineer/">
+                                                    <span class="vacancy">
+                                                        <span class="vacancy-tag">
+                                                            <img class="icon-light" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/01/qa.png">
+                                                            <img class="icon-colored" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/06/qa@2x-2.png">
+                                                        </span>
+                                                        <span class="vacancy-inner-wrap">
+                                                            <h3>Manual QA Engineer (e-commerce project)</h3>
+                                                            <p>Engineering</p>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                                                                    <div class="col-xs-12">
+                                                <a href="https://stage.hwr.hysdev.com/career/vacancies/php-magento-2-developer/">
+                                                    <span class="vacancy">
+                                                        <span class="vacancy-tag">
+                                                            <img class="icon-light" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/01/php.png">
+                                                            <img class="icon-colored" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/06/php@2x-2.png">
+                                                        </span>
+                                                        <span class="vacancy-inner-wrap">
+                                                            <h3>PHP Magento 2 Developer</h3>
+                                                            <p>Engineering</p>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                                                                    <div class="col-xs-12">
+                                                <a href="https://stage.hwr.hysdev.com/career/vacancies/middle-c-net-developer/">
+                                                    <span class="vacancy">
+                                                        <span class="vacancy-tag">
+                                                            <img class="icon-light" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/01/sharp.png">
+                                                            <img class="icon-colored" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/06/C@2x-2.png">
+                                                        </span>
+                                                        <span class="vacancy-inner-wrap">
+                                                            <h3>Middle C# Developer</h3>
+                                                            <p>Engineering</p>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                                                                    <div class="col-xs-12">
+                                                <a href="https://stage.hwr.hysdev.com/career/vacancies/team-lead-senior-net-developer/">
+                                                    <span class="vacancy">
+                                                        <span class="vacancy-tag">
+                                                            <img class="icon-light" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/01/sharp.png">
+                                                            <img class="icon-colored" src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/06/C@2x-2.png">
+                                                        </span>
+                                                        <span class="vacancy-inner-wrap">
+                                                            <h3>Team Lead / Senior C# Developer</h3>
+                                                            <p>Engineering</p>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                                                        </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="no-suitable-roles-block widget-m">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3>No Suitable Roles ?</h3>
+                <small>Submit your CV, we will contact you as soon as we have relevant openings.</small>
+            </div>
+            <div class="col-xs-12">
+                <a target="_blank" href="/career/cv-application/"> <button type="button" class="btn blue">Send Us Your CV</button></a>
+            </div>
+        </div>
+    </div>
+</div>
+      
+<footer class="career-footer">
+    <div class="container">
+        <div class="footer-contacts">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="scroll-top-wrap">
+                        <div class="scroll-top">
+                            <i class="icon icon-chevron-right"></i>
+                            <span>Back to top</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-media col-md-6 col-xs-12">
+                    <a href="/">
+                        <img src="/wp-content/uploads/2018/09/logo-mono-colored.png" alt="HYS Logo" class="white">
+                    </a>
+                    <small>Get connected</small>
+                </div>
+                <ul class="social-icons">
+                    <li><a target="_blank" href="https://www.instagram.com/hys_enterprise/"> <i class="icon-instagram"></i> </a></li>
+                    <li><a target="_blank" href="https://www.facebook.com/hysenterprise/"> <i class="icon-facebook"></i> </a></li>
+                    <li><a target="_blank" href="https://www.linkedin.com/company/hys-enterprise/"> <i class="icon-linkedin"></i> </a></li>
+                    <li><a target="_blank" href="https://twitter.com/hys_enterprise/"> <i class="icon-twitter"></i> </a></li>
+                    <li><a target="_blank" href="https://www.youtube.com/channel/UCl3yhYAbPoZcLgiwjBkZ9WQ"> <i class="icon-youtube"></i> </a></li>
+                    <li><a target="_blank" href="https://www.meetup.com/HYS-Tech-Beer-Community"> <i class="icon-meetup"></i> </a></li>
+                </ul>
+                <div class="footer-offices col-md-6 col-xs-12">
+                    <small>Our Offices</small>
+                    <ul class="location-list">
+                                                    <li>
+                                <a href="https://www.google.com/maps/place/HYS+Enterprise/@52.3656763,4.8874553,17z/data=!3m1!4b1!4m5!3m4!1s0x47c609ea1aae336f:0x91924971ab442603!8m2!3d52.3656763!4d4.889644?authuser=1" target="_blank" class="grey">Herengracht 456, Amsterdam<b>NL</b></a>
+                            </li>
+                                                    <li>
+                                <a href="https://www.google.com/maps/place/HYS+Enterprise/@46.4768324,30.7281272,16z/data=!4m8!1m2!2m1!1sHYS+enterprise!3m4!1s0x40c63137b4654edf:0xd4cecb8bcffed2d9!8m2!3d46.4802852!4d30.7314225" target="_blank" class="grey">Tyraspilska Square 2, Odesa<b>UA</b></a>
+                            </li>
+                                                    <li>
+                                <a href="https://www.google.com/maps/place/HYS+Enterprise/@46.4733798,30.731398,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xd6cfc618a2306a04!8m2!3d46.4733798!4d30.7335867?authuser=1" target="_blank" class="grey">Velyka Arnauts'ka 72/74, Odesa<b>UA</b></a>
+                            </li>
+                                            </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-menu">
+            <div class="row">
+                <div class="col-lg-9 col-xs-12">
+                    <ul>
+                                                        <li><a href="/career/team">Team</a></li>
+                                                         <li><a href="/career/vacancies">Vacancies</a></li>
+                                                         <li><a href="/career/events">Events</a></li>
+                                                         <li><a href="/career/blog">Blog</a></li>
+                                                         <li><a href="/career/privacy-policy">Privacy policy</a></li>
+                                             </ul>
+                </div>
+                <div class="col-lg-3 col-xs-12"><small class="copywrite">© All rights reserved 2007 - <span id="current-year">2021</span></small></div>
+            </div>
+        </div>
+    </div>
+
+</footer>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function(event) {
+        jQuery("#current-year").text( (new Date).getFullYear() );
+    });
+</script>
+
+<script type="text/javascript" defer="" src="https://stage.hwr.hysdev.com/wp-content/themes/nt-conversi/dist/js/index.js?ver=1.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var et_pb_custom = {"ajaxurl":"https:\/\/stage.hwr.hysdev.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/stage.hwr.hysdev.com\/wp-content\/themes\/nt-conversi\/images","builder_images_uri":"https:\/\/stage.hwr.hysdev.com\/wp-content\/plugins\/divi-builder\/includes\/builder\/images","et_frontend_nonce":"295449e635","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"3459962620","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","ignore_waypoints":"no","is_divi_theme_used":"","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"852","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://stage.hwr.hysdev.com/wp-content/plugins/divi-builder/js/divi-builder.min.js?ver=4.2.2"></script>
+<script type="text/javascript" src="https://stage.hwr.hysdev.com/wp-content/plugins/divi-builder/core/admin/js/common.js?ver=4.2.2"></script>
+<script type="text/javascript" defer="" src="https://stage.hwr.hysdev.com/wp-includes/js/wp-embed.min.js?ver=5.2.2"></script>
+
+
+
+
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","527702751123836");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=527702751123836&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","2770339363244639");fbq("set","agent","tmgoogletagmanager","2770339363244639");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2770339363244639&amp;ev=PageView&amp;noscript=1"></noscript>
+<iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-5e3cec51ed8e99df6977c199d27812d7.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe></body></html>
